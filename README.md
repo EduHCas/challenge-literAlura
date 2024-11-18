@@ -18,13 +18,13 @@ Es una aplicación mediante la cual creamos un catálogo de libros, que ofrece u
 ## Tecnologías utilizadas
 - Backend: Java y Spring (con énfasis en Spring Boot y Spring Data JPA).
 - Base de datos: PostgreSQL para gestionar la información.
-- API externa: Solo la funcionalidad de búsqueda inicial consulta datos de una API externa; las demás operaciones trabajan directamente con la base de datos.
+- API externa: Gutendex para la búsqueda inicial inicial de los libros.
 
 
 ## Modo de interacción
 
 LiterAlura es una aplicación que se ejecutará desde la consola, para gestionar y consultar un catálogo de autores y libros. La aplicación permite realizar búsquedas, generar una base de datos con autores y libros, utilizando la API Gutendex.
-cuenta con el un menu y diferentes funcionalidades que se detallan en a continuación:
+Cuenta con un menu y diferentes funcionalidades que se detallan en a continuación:
 
 Menú Principal - Opciones
 - 1 - Buscar Libro por Título
@@ -70,7 +70,7 @@ Menú Principal - Opciones
 
 ## Acceso al Proyecto
 
-Puedes acceder al proyecto: [Aquí](https://github.com/EduHCas/challenge-literAlura/"Aquí")
+Puedes acceder al proyecto: [Aquí](https://github.com/EduHCas/challenge-literAlura/)
 
 ## Autor del proyecto
 
