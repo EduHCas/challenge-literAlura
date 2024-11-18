@@ -46,3 +46,9 @@ cuenta con el un menu y diferentes funcionalidades que se detallan a continuaci√
 <p>3 - Listar Autores Registrados</p>
 
 ![](img/2opcionlibrosregistrados.png)
+
+<p>4 - Listar Autores vivos en un determinado a√±o</p>
+
+![](img/opcion3autoresregistrados.png)
+
+
