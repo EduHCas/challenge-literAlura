@@ -64,6 +64,10 @@ Menú Principal - Opciones
 
 ![](img/opcion6librosmasdescargados.png)
 
+<p> Opción 9 - Recomendaciones sitios web para comprar libros</p>
+
+![](img/opcion9recomendacionescomprar.png)
+
 <P>Consulta base de datos</P>
 
 ![](img/consultabasededatos.png)
